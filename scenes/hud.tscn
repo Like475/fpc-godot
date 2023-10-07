@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://2gndumyy504s"]
+
+[node name="HUD" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="SpeedLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 16.0
+offset_top = 16.0
+offset_right = 123.0
+offset_bottom = 44.0
+text = "Speed: 5"
